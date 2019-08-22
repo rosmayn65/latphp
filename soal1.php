@@ -16,7 +16,7 @@ if (isset($_POST['Simpan'])) {
     $nama = $_POST['nama'];
     $nilai1 = $_POST['nilai1'];
     $nilai2 = $_POST['nilai2'];
-    $ratarata = ($nilai1+$nilai1) / 2 ;
+    $ratarata = ($nilai1+$nilai2) / 2 ;
 
     echo "Nama Anda : <b>$nama</br>";
     echo "Nilai 1 : <b>$nilai1</br>";
