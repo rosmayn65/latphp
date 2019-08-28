@@ -37,7 +37,7 @@
         <tr>
     	    <td valign="top">Jenis Kelamin</td>
     	    <td>
-    	    	<input type="radio" name="l"cheked>Pria
+    	    	<input type="radio" name="l"cheked>Laki-laki
     	    	<input type="radio" name="p">Perempuan<br>
     	    </td>
     	</tr>
