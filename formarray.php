@@ -26,9 +26,9 @@
                 <label for="">Nama</label>
                 <input type="text" name="nama[]" required>
                 <label for="">Kelas</label>
-                <input type="text" name="kelas[]" required><br>
+                <input type="text" name="kelas[]" required>
                 <br>
-                <br>    
+                <br> 
 
             <?php } ?>
             <input type="submit" name="sbm" value="Simpan">
